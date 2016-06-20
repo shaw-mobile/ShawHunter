@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="com.genuitec.eclipse.mobile.embedded.phonegap_3.6.3"/>
+  <fixed facet="emt.phonegapapp"/>
+  <fixed facet="wst.jsdt.web"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+  <installed facet="emt.phonegapapp" version="1.0"/>
+</faceted-project>
